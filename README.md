@@ -23,7 +23,8 @@ Soy un desarrollador web en formación con un enfoque actual en el **frontend**,
 ## 📂 Proyectos
 
 Estoy trabajando en varios proyectos en GitHub que reflejan mi progreso en desarrollo web. Puedes verlos en [Mis Repositorios](https://github.com/antonioReynaldo).
-[Mi Portafolio](https://app.netlify.com/teams/antonioreynaldo/sites)
+
+Algunos Proyectos en Netlify [Mi Portafolio](https://app.netlify.com/teams/antonioreynaldo/sites)
 
 ---
 
