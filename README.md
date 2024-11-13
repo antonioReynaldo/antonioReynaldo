@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Antonio Reynaldo
+# 👋 ¡Hola! Soy Elias Reynaldo Paredes Torres
 
 Soy un desarrollador web en formación con un enfoque actual en el **frontend**, pero con el objetivo de convertirme en **desarrollador full stack**. Me apasiona la tecnología, y soy un firme creyente en que **"si lo sueñas, puedes hacerlo con trabajo y dedicación"**. Soy autodidacta y estoy en constante aprendizaje para mejorar mis habilidades y ampliar mis conocimientos.
 
@@ -22,7 +22,8 @@ Soy un desarrollador web en formación con un enfoque actual en el **frontend**,
 
 ## 📂 Proyectos
 
-Estoy trabajando en varios proyectos en GitHub que reflejan mi progreso en desarrollo web. Puedes verlos en [mis repositorios](https://github.com/antonioReynaldo).
+Estoy trabajando en varios proyectos en GitHub que reflejan mi progreso en desarrollo web. Puedes verlos en [Mis Repositorios](https://github.com/antonioReynaldo).
+[Mi Portafolio](https://app.netlify.com/teams/antonioreynaldo/sites)
 
 ---
 
@@ -36,7 +37,7 @@ Estoy trabajando en varios proyectos en GitHub que reflejan mi progreso en desar
 
 ## 📫 Contacto
 
-- [LinkedIn](https://linkedin.com/in/tu-usuario) (agrega el enlace cuando lo tengas)
+- [LinkedIn](https://www.linkedin.com/in/elias-reynaldo-paredes-torres-38840862/) (agrega el enlace cuando lo tengas)
 - **Email**: tuemail@example.com (si deseas incluir un correo de contacto)
 
 ---
