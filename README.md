@@ -80,7 +80,8 @@ Desarrollador Full Stack apasionado proveniente de **Perú**, especializado en c
 
 ### 🏆 To-Do List Application (Full Stack) - **MI MAYOR PROYECTO**
 
-**[Ver en GitHub](https://github.com/eliaspredestorres/todo-list-fullstack)**
+**[Codgio Backend]([https://github.com/eliaspredestorres/todo-list-fullstack](https://github.com/antonioReynaldo/to-do-backend))**
+**[Codgio Fronted]([https://github.com/eliaspredestorres/todo-list-fullstack](https://github.com/antonioReynaldo/to-do-frontend))**
 
 > 🌟 **Este es mi proyecto más grande y ambicioso hasta la fecha**, representando la máxima aplicación de mis habilidades Full Stack.
 
@@ -176,7 +177,7 @@ Una plataforma e-commerce completa con arquitectura frontend y backend escalable
 
 ### 🎨 Otros Proyectos
 
-Explora más proyectos en mi repositorio: [**GitHub**](https://github.com/eliaspredestorres)
+Explora más proyectos en mi repositorio: [**GitHub**]([https://github.com/eliaspredestorres](https://github.com/antonioReynaldo?tab=repositories))
 
 ---
 
@@ -246,8 +247,8 @@ Explora más proyectos en mi repositorio: [**GitHub**](https://github.com/eliasp
 ¡Estoy listo para contribuir al éxito de tu equipo! 🚀
 
 - **LinkedIn:** [Elias Paredes Torres](https://www.linkedin.com/in/eliaspredestorres)
-- **GitHub:** [@eliaspredestorres](https://github.com/eliaspredestorres)
-- **Instagram:** [@eliasparedestorre](https://instagram.com/eliasparedestorre)
+- **GitHub:** [@eliaspredestorres]([https://github.com/eliaspredestorres](https://github.com/antonioReynaldo))
+- **Instagram:** [@eliasparedestorre](https://instagram.com/eliasparedestorres)
 
 ---
 
@@ -260,9 +261,5 @@ Explora más proyectos en mi repositorio: [**GitHub**](https://github.com/eliasp
 **¡Contáctame para oportunidades laborales!** 📧
 
 ---
-
-<div style="margin-top: 20px;">
-  <img src="https://github.com/eliaspredestorres/eliaspredestorres/blob/main/assets/github-profile.gif?raw=true" alt="GitHub Profile" width="100"/>
-</div>
 
 </div>
