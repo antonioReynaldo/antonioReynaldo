@@ -78,12 +78,11 @@ Desarrollador Full Stack apasionado proveniente de **Perú**, especializado en c
 
 ## 💼 Proyectos Destacados
 
-### 🏆 To-Do List Application (Full Stack) - **MI MAYOR PROYECTO**
+### 🏆 To-Do List Application (Full Stack)
 
-**[Codgio Backend]([https://github.com/eliaspredestorres/todo-list-fullstack](https://github.com/antonioReynaldo/to-do-backend))**
-**[Codgio Fronted]([https://github.com/eliaspredestorres/todo-list-fullstack](https://github.com/antonioReynaldo/to-do-frontend))**
+**[Código Backend](https://github.com/antonioReynaldo/to-do-backend)**
+**[Código Fronted](https://github.com/antonioReynaldo/to-do-frontend)**
 
-> 🌟 **Este es mi proyecto más grande y ambicioso hasta la fecha**, representando la máxima aplicación de mis habilidades Full Stack.
 
 Aplicación completa de gestión de tareas con arquitectura robusta, autenticación JWT y persistencia en base de datos PostgreSQL.
 
