@@ -29,7 +29,8 @@
 
 ## 🚀 Sobre Mí
 
-Desarrollador Full Stack apasionado proveniente de **Perú**, especializado en crear soluciones digitales completas y escalables. Combino conocimientos sólidos en desarrollo frontend y backend con una mentalidad orientada a resultados.
+Me gusta construir cosas y entender cómo funcionan por dentro. Soy desarrollador **Full Stack de Perú**, enfocado en el desarrollo web y en convertir una idea en una aplicación funcional, desde la interfaz hasta la API y la base de datos.
+Trabajo principalmente con **React, TypeScript, Node.js, Express y MySQL**, y constantemente busco mejorar la forma en que diseño, estructuro y desarrollo mis proyectos.
 
 > 💡 **"Transformo ideas en experiencias digitales funcionales y elegantes"**
 
